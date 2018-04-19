@@ -7,3 +7,4 @@ git tracks changes of files so how to do.
 git tracks changes of files yes,whaterver i dont know this is right.
 >>>>>>> dev
 i'm learning how to use git.
+solve conflict.
